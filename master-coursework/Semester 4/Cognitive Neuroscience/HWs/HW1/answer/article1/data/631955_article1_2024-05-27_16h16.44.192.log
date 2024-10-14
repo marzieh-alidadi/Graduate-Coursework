@@ -1,0 +1,512 @@
+5.2391 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+5.2397 	INFO 	Loaded monitor calibration from ['2024_05_21 12:08']
+5.4396 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000025D21732040>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000025D216CCFA0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1, 1, 1]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000025D216CCDF0>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000025D21AB7C70>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.4398 	EXP 	window1: mouseVisible = True
+5.4398 	EXP 	window1: backgroundImage = ''
+5.4398 	EXP 	window1: backgroundFit = 'none'
+5.4401 	EXP 	window1: mouseVisible = True
+5.4404 	EXP 	window1: mouseVisible = True
+5.4434 	EXP 	window1: mouseVisible = True
+5.4441 	EXP 	window1: mouseVisible = True
+5.4497 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4511 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4526 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4543 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4558 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4567 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4578 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4590 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4597 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4604 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4615 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4624 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4634 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4642 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4650 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4659 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4669 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4676 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4683 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4694 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4703 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4705 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.4885 	DEBUG 	Upload of Texture Font fontname complete
+5.4900 	EXP 	window1: mouseVisible = True
+5.4901 	EXP 	window1: mouseVisible = True
+5.4906 	EXP 	window1: mouseVisible = True
+5.4910 	EXP 	window1: mouseVisible = True
+5.4946 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4956 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4966 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4969 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.5138 	DEBUG 	Upload of Texture Font fontname complete
+5.5156 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.5156 	EXP 	window1: recordFrameIntervals = False
+5.6856 	EXP 	window1: recordFrameIntervals = True
+5.7892 	WARNING 	t of last frame was 20.06ms (=1/49)
+5.9690 	EXP 	Screen (0) actual frame rate measured at 59.70Hz
+5.9690 	EXP 	window1: recordFrameIntervals = False
+5.9691 	EXP 	window1: mouseVisible = False
+5.9697 	EXP 	window1: mouseVisible = True
+5.9699 	EXP 	window1: mouseVisible = True
+5.9709 	EXP 	window1: mouseVisible = True
+5.9716 	EXP 	window1: mouseVisible = True
+5.9768 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9777 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9786 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9796 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9806 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9816 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9828 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9859 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9885 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9908 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9914 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.9925 	DEBUG 	Upload of Texture Font fontname complete
+5.9950 	EXP 	window1: mouseVisible = True
+5.9953 	EXP 	window1: mouseVisible = True
+5.9962 	EXP 	window1: mouseVisible = True
+5.9970 	EXP 	window1: mouseVisible = True
+6.0569 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+8.2367 	INFO 	keyboard.Keyboard is using iohub backend.
+8.2367 	INFO 	keyboard.Keyboard is using iohub backend.
+8.2368 	INFO 	keyboard.Keyboard is using iohub backend.
+8.2368 	EXP 	article1: status = STARTED
+8.2370 	EXP 	window1: mouseVisible = True
+8.3083 	EXP 	Created text1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='Arabic', name='text1', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.3084 	EXP 	window1: mouseVisible = True
+8.3096 	EXP 	Created fixation1 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([-1, -1, -1]), fillColorSpace='rgb', fillRGB=array([-1, -1, -1]), interpolate=True, lineColor=array([-1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([-1., -1., -1.]), lineWidth=0.08, name='fixation1', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.03, 0.06]), units='norm', vertices=ndarray(...), win=Window(...), windingRule=None)
+8.3097 	EXP 	window1: mouseVisible = True
+8.3127 	EXP 	Created left_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='left_image', opacity=1.0, ori=0.0, pos=array([-0.5,  0. ]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+8.3130 	EXP 	window1: mouseVisible = True
+8.3154 	EXP 	Created right_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='right_image', opacity=1.0, ori=0.0, pos=array([0.5, 0. ]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+8.3155 	EXP 	window1: mouseVisible = True
+8.3162 	EXP 	Created polygon = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-5.0, draggable=False, fillColor=array([0., 0., 0.]), fillColorSpace='rgb', fillRGB=array([0., 0., 0.]), interpolate=True, lineColor=array([-0.5765,  0.0039,  1.    ]), lineColorSpace='rgb', lineRGB=array([-0.5765,  0.0039,  1.    ]), lineWidth=20.0, name='polygon', opacity=0.3, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), units='height', vertices=ndarray(...), win=Window(...))
+8.3162 	EXP 	window1: mouseVisible = True
+8.3163 	EXP 	window1: mouseVisible = True
+8.3166 	EXP 	window1: mouseVisible = True
+8.3169 	EXP 	window1: mouseVisible = True
+8.3196 	EXP 	window1: mouseVisible = True
+8.3197 	EXP 	window1: mouseVisible = True
+8.3200 	EXP 	window1: mouseVisible = True
+8.3203 	EXP 	window1: mouseVisible = True
+8.3236 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3251 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3267 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3281 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3294 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3306 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3321 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3334 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3346 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3348 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.3360 	DEBUG 	Upload of Texture Font fontname complete
+8.3369 	EXP 	window1: mouseVisible = True
+8.3370 	EXP 	window1: mouseVisible = True
+8.3374 	EXP 	window1: mouseVisible = True
+8.3376 	EXP 	window1: mouseVisible = True
+8.3400 	EXP 	window1: mouseVisible = True
+8.3401 	EXP 	window1: mouseVisible = True
+8.3404 	EXP 	window1: mouseVisible = True
+8.3407 	EXP 	window1: mouseVisible = True
+8.3430 	EXP 	window1: mouseVisible = True
+8.3469 	EXP 	Created text_no_resp = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-8.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='Arabic', name='text_no_resp', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='.ﺪﺸﻧ ﺖﻓﺎﯾﺭﺩ ﯽﺨﺳﺎﭘ', units='height', win=Window(...), wrapWidth=1)
+0.0266 	EXP 	left_learning_reward: autoLog = True
+0.0266 	EXP 	right_learning_reward: autoLog = True
+0.0617 	INFO 	Keyboard events cleared
+0.0613 	EXP 	text1: autoDraw = True
+1.6960 	EXP 	Created sequence: random, trialTypes=1, nReps=20, seed=None
+1.6963 	EXP 	New trial (rep=0, index=0): None
+1.6987 	DATA 	Keypress: space
+1.7035 	EXP 	text1: autoDraw = False
+1.7035 	EXP 	fixation1: autoDraw = True
+2.6909 	EXP 	window1: backgroundImage = ''
+2.6909 	EXP 	window1: backgroundFit = 'none'
+2.7408 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.7427 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.7443 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.7460 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.7472 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.7487 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.7504 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.7505 	DEBUG 	Uploading Texture Font fontname to graphics card
+2.7535 	DEBUG 	Upload of Texture Font fontname complete
+2.7554 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.7568 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.7569 	DEBUG 	Uploading Texture Font fontname to graphics card
+2.7578 	DEBUG 	Upload of Texture Font fontname complete
+2.7928 	INFO 	Keyboard events cleared
+2.7924 	EXP 	fixation1: autoDraw = False
+2.7924 	EXP 	fixation1: autoDraw = False
+2.7924 	EXP 	left_image: image = '3.jpg'
+2.7924 	EXP 	right_image: image = '4.jpg'
+2.7924 	EXP 	text_no_resp: autoDraw = False
+2.7924 	EXP 	left_image: autoDraw = True
+2.7924 	EXP 	right_image: autoDraw = True
+2.7924 	EXP 	text_no_resp: autoDraw = False
+2.8025 	EXP 	text_no_resp: autoDraw = False
+2.8194 	EXP 	text_no_resp: autoDraw = False
+2.8365 	EXP 	text_no_resp: autoDraw = False
+2.8532 	EXP 	text_no_resp: autoDraw = False
+2.8700 	EXP 	text_no_resp: autoDraw = False
+2.8869 	EXP 	text_no_resp: autoDraw = False
+2.9032 	EXP 	text_no_resp: autoDraw = False
+2.9202 	EXP 	text_no_resp: autoDraw = False
+2.9370 	EXP 	text_no_resp: autoDraw = False
+2.9541 	EXP 	text_no_resp: autoDraw = False
+2.9695 	EXP 	text_no_resp: autoDraw = False
+2.9866 	EXP 	text_no_resp: autoDraw = False
+3.0038 	EXP 	text_no_resp: autoDraw = False
+3.0208 	EXP 	text_no_resp: autoDraw = False
+3.0369 	EXP 	text_no_resp: autoDraw = False
+3.0534 	EXP 	text_no_resp: autoDraw = False
+3.0696 	EXP 	text_no_resp: autoDraw = False
+3.0866 	EXP 	text_no_resp: autoDraw = False
+3.1034 	EXP 	text_no_resp: autoDraw = False
+3.1208 	EXP 	text_no_resp: autoDraw = False
+3.1369 	EXP 	text_no_resp: autoDraw = False
+3.1535 	EXP 	text_no_resp: autoDraw = False
+3.1700 	EXP 	text_no_resp: autoDraw = False
+3.1865 	EXP 	text_no_resp: autoDraw = False
+3.2034 	EXP 	text_no_resp: autoDraw = False
+3.2194 	EXP 	text_no_resp: autoDraw = False
+3.2361 	EXP 	text_no_resp: autoDraw = False
+3.2533 	EXP 	text_no_resp: autoDraw = False
+3.2700 	EXP 	text_no_resp: autoDraw = False
+3.2865 	EXP 	text_no_resp: autoDraw = False
+3.3041 	EXP 	text_no_resp: autoDraw = False
+3.3201 	EXP 	text_no_resp: autoDraw = False
+3.3373 	EXP 	text_no_resp: autoDraw = False
+3.3539 	EXP 	text_no_resp: autoDraw = False
+3.3703 	EXP 	text_no_resp: autoDraw = False
+3.3865 	EXP 	text_no_resp: autoDraw = False
+3.4034 	EXP 	text_no_resp: autoDraw = False
+3.4199 	EXP 	text_no_resp: autoDraw = False
+3.4373 	EXP 	text_no_resp: autoDraw = False
+3.4535 	EXP 	text_no_resp: autoDraw = False
+3.4700 	EXP 	text_no_resp: autoDraw = False
+3.4865 	EXP 	text_no_resp: autoDraw = False
+3.5043 	EXP 	text_no_resp: autoDraw = False
+3.5201 	EXP 	text_no_resp: autoDraw = False
+3.5368 	EXP 	text_no_resp: autoDraw = False
+3.5532 	EXP 	text_no_resp: autoDraw = False
+3.5709 	EXP 	text_no_resp: autoDraw = False
+3.5871 	EXP 	text_no_resp: autoDraw = False
+3.6030 	EXP 	text_no_resp: autoDraw = False
+3.6202 	EXP 	text_no_resp: autoDraw = False
+3.6368 	EXP 	text_no_resp: autoDraw = False
+3.6538 	EXP 	text_no_resp: autoDraw = False
+3.6713 	EXP 	text_no_resp: autoDraw = False
+3.6872 	EXP 	text_no_resp: autoDraw = False
+3.7038 	EXP 	text_no_resp: autoDraw = False
+3.7201 	EXP 	text_no_resp: autoDraw = False
+3.7366 	EXP 	text_no_resp: autoDraw = False
+3.7534 	EXP 	text_no_resp: autoDraw = False
+3.7700 	EXP 	text_no_resp: autoDraw = False
+3.7866 	EXP 	text_no_resp: autoDraw = False
+3.8043 	EXP 	text_no_resp: autoDraw = False
+3.8208 	EXP 	text_no_resp: autoDraw = False
+3.8365 	EXP 	text_no_resp: autoDraw = False
+3.8540 	EXP 	text_no_resp: autoDraw = False
+3.8703 	EXP 	text_no_resp: autoDraw = False
+3.8873 	EXP 	text_no_resp: autoDraw = False
+3.9037 	EXP 	text_no_resp: autoDraw = False
+3.9203 	EXP 	text_no_resp: autoDraw = False
+3.9374 	EXP 	text_no_resp: autoDraw = False
+3.9538 	EXP 	text_no_resp: autoDraw = False
+3.9709 	EXP 	text_no_resp: autoDraw = False
+3.9869 	EXP 	text_no_resp: autoDraw = False
+4.0035 	EXP 	text_no_resp: autoDraw = False
+4.0201 	EXP 	text_no_resp: autoDraw = False
+4.0371 	EXP 	text_no_resp: autoDraw = False
+4.0540 	EXP 	text_no_resp: autoDraw = False
+4.0706 	EXP 	text_no_resp: autoDraw = False
+4.0871 	EXP 	text_no_resp: autoDraw = False
+4.1034 	EXP 	text_no_resp: autoDraw = False
+4.1208 	EXP 	text_no_resp: autoDraw = False
+4.1364 	EXP 	text_no_resp: autoDraw = False
+4.1535 	EXP 	text_no_resp: autoDraw = False
+4.1699 	EXP 	text_no_resp: autoDraw = False
+4.1868 	EXP 	text_no_resp: autoDraw = False
+4.2027 	EXP 	text_no_resp: autoDraw = False
+4.2195 	EXP 	text_no_resp: autoDraw = False
+4.2364 	EXP 	text_no_resp: autoDraw = False
+4.2536 	EXP 	text_no_resp: autoDraw = False
+4.2702 	EXP 	text_no_resp: autoDraw = False
+4.2870 	EXP 	text_no_resp: autoDraw = False
+4.3034 	EXP 	text_no_resp: autoDraw = False
+4.3206 	EXP 	text_no_resp: autoDraw = False
+4.3374 	EXP 	text_no_resp: autoDraw = False
+4.3541 	EXP 	text_no_resp: autoDraw = False
+4.3696 	EXP 	text_no_resp: autoDraw = False
+4.3865 	EXP 	text_no_resp: autoDraw = False
+4.4036 	EXP 	text_no_resp: autoDraw = False
+4.4200 	EXP 	text_no_resp: autoDraw = False
+4.4369 	EXP 	text_no_resp: autoDraw = False
+4.4531 	EXP 	text_no_resp: autoDraw = False
+4.4701 	EXP 	text_no_resp: autoDraw = False
+4.4870 	EXP 	text_no_resp: autoDraw = False
+4.5039 	EXP 	text_no_resp: autoDraw = False
+4.5200 	EXP 	text_no_resp: autoDraw = False
+4.5366 	EXP 	text_no_resp: autoDraw = False
+4.5527 	EXP 	text_no_resp: autoDraw = False
+4.5698 	EXP 	text_no_resp: autoDraw = False
+4.5871 	EXP 	text_no_resp: autoDraw = False
+4.6039 	EXP 	text_no_resp: autoDraw = False
+4.6200 	EXP 	text_no_resp: autoDraw = False
+4.6369 	EXP 	text_no_resp: autoDraw = False
+4.6532 	EXP 	text_no_resp: autoDraw = False
+4.6701 	EXP 	text_no_resp: autoDraw = False
+4.6869 	EXP 	text_no_resp: autoDraw = False
+4.7035 	EXP 	text_no_resp: autoDraw = False
+4.7201 	EXP 	text_no_resp: autoDraw = False
+4.7371 	EXP 	text_no_resp: autoDraw = False
+4.7540 	EXP 	text_no_resp: autoDraw = False
+4.7705 	EXP 	text_no_resp: autoDraw = False
+4.7867 	EXP 	text_no_resp: autoDraw = False
+4.8027 	EXP 	text_no_resp: autoDraw = False
+4.8199 	EXP 	text_no_resp: autoDraw = False
+4.8368 	EXP 	text_no_resp: autoDraw = False
+4.8535 	EXP 	text_no_resp: autoDraw = False
+4.8708 	EXP 	text_no_resp: autoDraw = False
+4.8874 	EXP 	text_no_resp: autoDraw = False
+4.9038 	EXP 	text_no_resp: autoDraw = False
+4.9199 	EXP 	text_no_resp: autoDraw = False
+4.9372 	EXP 	text_no_resp: autoDraw = False
+4.9536 	EXP 	text_no_resp: autoDraw = False
+4.9706 	EXP 	text_no_resp: autoDraw = False
+4.9868 	EXP 	text_no_resp: autoDraw = False
+5.0038 	EXP 	text_no_resp: autoDraw = False
+5.0206 	EXP 	text_no_resp: autoDraw = False
+5.0371 	EXP 	text_no_resp: autoDraw = False
+5.0544 	EXP 	text_no_resp: autoDraw = False
+5.0699 	EXP 	text_no_resp: autoDraw = False
+5.0866 	EXP 	text_no_resp: autoDraw = False
+5.1043 	EXP 	text_no_resp: autoDraw = False
+5.1203 	EXP 	text_no_resp: autoDraw = False
+5.1368 	EXP 	text_no_resp: autoDraw = False
+5.1534 	EXP 	text_no_resp: autoDraw = False
+5.1701 	EXP 	text_no_resp: autoDraw = False
+5.1866 	EXP 	text_no_resp: autoDraw = False
+5.2031 	EXP 	text_no_resp: autoDraw = False
+5.2198 	EXP 	text_no_resp: autoDraw = False
+5.2362 	EXP 	text_no_resp: autoDraw = False
+5.2528 	EXP 	text_no_resp: autoDraw = False
+5.2700 	EXP 	text_no_resp: autoDraw = False
+5.2868 	EXP 	text_no_resp: autoDraw = False
+5.3035 	EXP 	text_no_resp: autoDraw = False
+5.3205 	EXP 	text_no_resp: autoDraw = False
+5.3375 	EXP 	text_no_resp: autoDraw = False
+5.3537 	EXP 	text_no_resp: autoDraw = False
+5.3708 	EXP 	text_no_resp: autoDraw = False
+5.3869 	EXP 	text_no_resp: autoDraw = False
+5.4033 	EXP 	text_no_resp: autoDraw = False
+5.4207 	EXP 	text_no_resp: autoDraw = False
+5.4371 	EXP 	text_no_resp: autoDraw = False
+5.4531 	EXP 	text_no_resp: autoDraw = False
+5.4706 	EXP 	text_no_resp: autoDraw = False
+5.4868 	EXP 	text_no_resp: autoDraw = False
+5.5032 	EXP 	text_no_resp: autoDraw = False
+5.5203 	EXP 	text_no_resp: autoDraw = False
+5.5368 	EXP 	text_no_resp: autoDraw = False
+5.5543 	EXP 	text_no_resp: autoDraw = False
+5.5703 	EXP 	text_no_resp: autoDraw = False
+5.5871 	EXP 	text_no_resp: autoDraw = False
+5.6040 	EXP 	text_no_resp: autoDraw = False
+5.6201 	EXP 	text_no_resp: autoDraw = False
+5.6368 	EXP 	text_no_resp: autoDraw = False
+5.6532 	EXP 	text_no_resp: autoDraw = False
+5.6705 	EXP 	text_no_resp: autoDraw = False
+5.6869 	EXP 	text_no_resp: autoDraw = False
+5.7041 	EXP 	text_no_resp: autoDraw = False
+5.7195 	EXP 	text_no_resp: autoDraw = False
+5.7368 	EXP 	text_no_resp: autoDraw = False
+5.7535 	EXP 	text_no_resp: autoDraw = False
+5.7701 	EXP 	text_no_resp: autoDraw = False
+5.7869 	EXP 	text_no_resp: autoDraw = False
+5.8030 	EXP 	text_no_resp: autoDraw = False
+5.8198 	EXP 	text_no_resp: autoDraw = False
+5.8365 	EXP 	text_no_resp: autoDraw = False
+5.8542 	EXP 	text_no_resp: autoDraw = False
+5.8705 	EXP 	text_no_resp: autoDraw = False
+5.8867 	EXP 	text_no_resp: autoDraw = False
+5.9035 	EXP 	text_no_resp: autoDraw = False
+5.9200 	EXP 	text_no_resp: autoDraw = False
+5.9374 	EXP 	text_no_resp: autoDraw = False
+5.9533 	EXP 	text_no_resp: autoDraw = False
+5.9706 	EXP 	text_no_resp: autoDraw = False
+5.9865 	EXP 	text_no_resp: autoDraw = False
+6.0033 	EXP 	text_no_resp: autoDraw = False
+6.0208 	EXP 	text_no_resp: autoDraw = False
+6.0371 	EXP 	text_no_resp: autoDraw = False
+6.0537 	EXP 	text_no_resp: autoDraw = False
+6.0707 	EXP 	text_no_resp: autoDraw = False
+6.0869 	EXP 	text_no_resp: autoDraw = False
+6.1036 	EXP 	text_no_resp: autoDraw = False
+6.1198 	EXP 	text_no_resp: autoDraw = False
+6.1365 	EXP 	text_no_resp: autoDraw = False
+6.1545 	EXP 	text_no_resp: autoDraw = False
+6.1701 	EXP 	text_no_resp: autoDraw = False
+6.1867 	EXP 	text_no_resp: autoDraw = False
+6.2038 	EXP 	text_no_resp: autoDraw = False
+6.2202 	EXP 	text_no_resp: autoDraw = False
+6.2365 	EXP 	text_no_resp: autoDraw = False
+6.2528 	EXP 	text_no_resp: autoDraw = False
+6.2697 	EXP 	text_no_resp: autoDraw = False
+6.2865 	EXP 	text_no_resp: autoDraw = False
+6.3040 	EXP 	text_no_resp: autoDraw = False
+6.3204 	EXP 	text_no_resp: autoDraw = False
+6.3370 	EXP 	text_no_resp: autoDraw = False
+6.3537 	EXP 	text_no_resp: autoDraw = False
+6.3711 	EXP 	text_no_resp: autoDraw = False
+6.3867 	EXP 	text_no_resp: autoDraw = False
+6.4036 	EXP 	text_no_resp: autoDraw = False
+6.4211 	EXP 	text_no_resp: autoDraw = False
+6.4368 	EXP 	text_no_resp: autoDraw = False
+6.4534 	EXP 	text_no_resp: autoDraw = False
+6.4703 	EXP 	text_no_resp: autoDraw = False
+6.4869 	EXP 	text_no_resp: autoDraw = False
+6.5040 	EXP 	text_no_resp: autoDraw = False
+6.5206 	EXP 	text_no_resp: autoDraw = False
+6.5365 	EXP 	text_no_resp: autoDraw = False
+6.5535 	EXP 	text_no_resp: autoDraw = False
+6.5699 	EXP 	text_no_resp: autoDraw = False
+6.5870 	EXP 	text_no_resp: autoDraw = False
+6.6033 	EXP 	text_no_resp: autoDraw = False
+6.6207 	EXP 	text_no_resp: autoDraw = False
+6.6371 	EXP 	text_no_resp: autoDraw = False
+6.6539 	EXP 	text_no_resp: autoDraw = False
+6.6703 	EXP 	text_no_resp: autoDraw = False
+6.6870 	EXP 	text_no_resp: autoDraw = False
+6.7028 	EXP 	text_no_resp: autoDraw = False
+6.7028 	EXP 	polygon: autoDraw = True
+6.7028 	EXP 	left_learning_reward: autoDraw = True
+6.7028 	EXP 	right_learning_reward: autoDraw = True
+6.7197 	EXP 	text_no_resp: autoDraw = False
+6.7366 	EXP 	text_no_resp: autoDraw = False
+6.7529 	EXP 	text_no_resp: autoDraw = False
+6.7696 	EXP 	text_no_resp: autoDraw = False
+6.7863 	EXP 	text_no_resp: autoDraw = False
+6.8029 	EXP 	text_no_resp: autoDraw = False
+6.8195 	EXP 	text_no_resp: autoDraw = False
+6.8363 	EXP 	text_no_resp: autoDraw = False
+6.8531 	EXP 	text_no_resp: autoDraw = False
+6.8693 	EXP 	text_no_resp: autoDraw = False
+6.8864 	EXP 	text_no_resp: autoDraw = False
+6.9031 	EXP 	text_no_resp: autoDraw = False
+6.9197 	EXP 	text_no_resp: autoDraw = False
+6.9365 	EXP 	text_no_resp: autoDraw = False
+6.9533 	EXP 	text_no_resp: autoDraw = False
+6.9698 	EXP 	text_no_resp: autoDraw = False
+6.9866 	EXP 	text_no_resp: autoDraw = False
+7.0029 	EXP 	text_no_resp: autoDraw = False
+7.0195 	EXP 	text_no_resp: autoDraw = False
+7.0362 	EXP 	text_no_resp: autoDraw = False
+7.0533 	EXP 	text_no_resp: autoDraw = False
+7.0697 	EXP 	text_no_resp: autoDraw = False
+7.0864 	EXP 	text_no_resp: autoDraw = False
+7.1028 	EXP 	text_no_resp: autoDraw = False
+7.1196 	EXP 	text_no_resp: autoDraw = False
+7.1362 	EXP 	text_no_resp: autoDraw = False
+7.1529 	EXP 	text_no_resp: autoDraw = False
+7.1696 	EXP 	text_no_resp: autoDraw = False
+7.1863 	EXP 	text_no_resp: autoDraw = False
+7.2031 	EXP 	text_no_resp: autoDraw = False
+7.2196 	EXP 	text_no_resp: autoDraw = False
+7.2364 	EXP 	text_no_resp: autoDraw = False
+7.2530 	EXP 	text_no_resp: autoDraw = False
+7.2695 	EXP 	text_no_resp: autoDraw = False
+7.2866 	EXP 	text_no_resp: autoDraw = False
+7.3034 	EXP 	text_no_resp: autoDraw = False
+7.3195 	EXP 	text_no_resp: autoDraw = False
+7.3363 	EXP 	text_no_resp: autoDraw = False
+7.3532 	EXP 	text_no_resp: autoDraw = False
+7.3700 	EXP 	text_no_resp: autoDraw = False
+7.3862 	EXP 	text_no_resp: autoDraw = False
+7.4032 	EXP 	text_no_resp: autoDraw = False
+7.4201 	EXP 	text_no_resp: autoDraw = False
+7.4364 	EXP 	text_no_resp: autoDraw = False
+7.4526 	EXP 	text_no_resp: autoDraw = False
+7.4695 	EXP 	text_no_resp: autoDraw = False
+7.4861 	EXP 	text_no_resp: autoDraw = False
+7.5031 	EXP 	text_no_resp: autoDraw = False
+7.5198 	EXP 	text_no_resp: autoDraw = False
+7.5362 	EXP 	text_no_resp: autoDraw = False
+7.5532 	EXP 	text_no_resp: autoDraw = False
+7.5694 	EXP 	text_no_resp: autoDraw = False
+7.5863 	EXP 	text_no_resp: autoDraw = False
+7.6032 	EXP 	text_no_resp: autoDraw = False
+7.6200 	EXP 	text_no_resp: autoDraw = False
+7.6365 	EXP 	text_no_resp: autoDraw = False
+7.6530 	EXP 	text_no_resp: autoDraw = False
+7.6697 	EXP 	text_no_resp: autoDraw = False
+7.6864 	EXP 	text_no_resp: autoDraw = False
+7.7031 	EXP 	text_no_resp: autoDraw = False
+7.7031 	EXP 	polygon: autoDraw = False
+7.7031 	EXP 	left_learning_reward: autoDraw = False
+7.7031 	EXP 	right_learning_reward: autoDraw = False
+7.7200 	EXP 	text_no_resp: autoDraw = False
+7.7371 	EXP 	text_no_resp: autoDraw = False
+7.7538 	EXP 	text_no_resp: autoDraw = False
+7.7710 	EXP 	text_no_resp: autoDraw = False
+7.7871 	EXP 	text_no_resp: autoDraw = False
+7.8035 	EXP 	left_image: autoDraw = False
+7.8035 	EXP 	right_image: autoDraw = False
+7.8035 	EXP 	text_no_resp: autoDraw = False
+7.8198 	EXP 	text_no_resp: autoDraw = False
+7.8367 	EXP 	text_no_resp: autoDraw = False
+7.8530 	EXP 	text_no_resp: autoDraw = False
+7.8705 	EXP 	text_no_resp: autoDraw = False
+7.8865 	EXP 	text_no_resp: autoDraw = False
+7.9032 	EXP 	text_no_resp: autoDraw = False
+7.9197 	EXP 	text_no_resp: autoDraw = False
+7.9373 	EXP 	text_no_resp: autoDraw = False
+7.9532 	EXP 	text_no_resp: autoDraw = False
+7.9703 	EXP 	text_no_resp: autoDraw = False
+7.9872 	EXP 	text_no_resp: autoDraw = False
+8.0031 	EXP 	text_no_resp: autoDraw = False
+8.0201 	EXP 	text_no_resp: autoDraw = False
+8.0377 	EXP 	text_no_resp: autoDraw = False
+8.0544 	EXP 	text_no_resp: autoDraw = False
+8.0699 	EXP 	text_no_resp: autoDraw = False
+8.0874 	EXP 	text_no_resp: autoDraw = False
+8.1036 	EXP 	text_no_resp: autoDraw = False
+8.1196 	EXP 	text_no_resp: autoDraw = False
+8.1371 	EXP 	text_no_resp: autoDraw = False
+8.1539 	EXP 	text_no_resp: autoDraw = False
+8.1703 	EXP 	text_no_resp: autoDraw = False
+8.1871 	EXP 	text_no_resp: autoDraw = False
+8.2037 	EXP 	text_no_resp: autoDraw = False
+8.2202 	EXP 	text_no_resp: autoDraw = False
+8.2367 	EXP 	text_no_resp: autoDraw = False
+8.2531 	EXP 	text_no_resp: autoDraw = False
+8.2698 	EXP 	text_no_resp: autoDraw = False
+8.2878 	EXP 	text_no_resp: autoDraw = False
+8.3034 	EXP 	text_no_resp: autoDraw = False
+8.3198 	EXP 	text_no_resp: autoDraw = False
+8.3364 	EXP 	text_no_resp: autoDraw = False
+8.3533 	EXP 	text_no_resp: autoDraw = False
+8.3697 	EXP 	text_no_resp: autoDraw = False
+8.3860 	EXP 	text_no_resp: autoDraw = False
+8.4030 	EXP 	text_no_resp: autoDraw = False
+8.4198 	EXP 	text_no_resp: autoDraw = False
+8.4371 	EXP 	text_no_resp: autoDraw = False
+8.4527 	EXP 	text_no_resp: autoDraw = False
+8.4705 	EXP 	text_no_resp: autoDraw = False
+8.4868 	EXP 	text_no_resp: autoDraw = False
+8.5031 	EXP 	text_no_resp: autoDraw = False
+8.5197 	EXP 	text_no_resp: autoDraw = False
+8.5364 	EXP 	text_no_resp: autoDraw = False
+8.5540 	EXP 	text_no_resp: autoDraw = False
+8.5704 	EXP 	text_no_resp: autoDraw = False
+8.5864 	EXP 	text_no_resp: autoDraw = False
+8.6031 	EXP 	text_no_resp: autoDraw = False
+8.6204 	EXP 	text_no_resp: autoDraw = False
+8.6362 	EXP 	text_no_resp: autoDraw = False
+8.6534 	EXP 	text_no_resp: autoDraw = False
+8.6698 	EXP 	text_no_resp: autoDraw = False
+8.6875 	EXP 	text_no_resp: autoDraw = False
+8.7174 	EXP 	window1: mouseVisible = True
+8.7264 	DEBUG 	Saving data for article1 ExperimentHandler
+8.7272 	INFO 	saved data to D:\UT\semester 4 - courses\Cognitive science\HWs\HW1\answer\article1\data/631955_article1_2024-05-27_16h16.44.192.psydat
+8.7277 	INFO 	saved data to 'D:\\UT\\semester 4 - courses\\Cognitive science\\HWs\\HW1\\answer\\article1\\data/631955_article1_2024-05-27_16h16.44.192.csv'

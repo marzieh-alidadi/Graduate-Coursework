@@ -1,0 +1,114 @@
+env byte PACKET_SIZE = 4;
+
+reactiveclass Sensor(3) {
+	knownrebecs {
+		CPU cpu;
+	}
+	statevars {
+		byte myId;
+	}
+	Sensor(byte id) {
+		myId = id;
+		self.dataAcq();
+	}
+	msgsrv dataAcq() {
+		cpu.recData(?(1,8));
+	}
+}
+
+reactiveclass CPU(3) {
+	knownrebecs {
+		Radio radio;
+	}
+	statevars {
+		byte myId, counter;
+	}
+	CPU(byte id) { 
+		myId = id;
+		counter = 0;
+	}
+	msgsrv recData(byte data) {
+		counter++;
+		if(counter == PACKET_SIZE) {
+			counter = 0;
+			radio.sendData((Sensor)sender, data);
+		} else {
+			((Sensor)sender).dataAcq();
+		}
+		assertion(counter < 30);
+	}
+	msgsrv ack(Sensor s1) {
+		s1.dataAcq();		
+	}
+}
+
+reactiveclass Radio(3) {
+	knownrebecs {
+		Master master;
+	}
+	statevars {
+		byte myId;
+	}
+	Radio(byte id) { 
+		myId = id;
+	}
+	msgsrv sendData(Sensor s1, byte data) {
+		master.manage(data, self.myId);
+		((CPU)sender).ack(s1);
+	}
+}
+
+reactiveclass Master(30) {
+	statevars {
+		int t;
+		byte info1;
+		byte info2;
+		byte info3;
+		byte result;
+	}
+	Master() {
+		t = 0;
+		info1 = 0;
+		info2 = 0;
+		info3 = 0;
+		self.getInfo();
+	}
+	msgsrv manage(byte data, byte i) {
+		if(i == 0) {
+			info1 = data;			
+		}
+		if(i == 1) {
+			info2 = data;						
+		}
+		if(i == 2) {
+			info3 = data;						
+		}
+	}
+	msgsrv getInfo() {
+		if(t == 0) {
+			result = info1;
+		}
+		if(t == 1) {
+			result = info2;
+		}
+		if(t == 2) {
+			result = info3;
+		}
+		t++;
+		t = t%3;
+		self.getInfo();
+	}
+}
+
+main {
+	Sensor s1(c1):(0);
+	Sensor s2(c2):(1);
+	Sensor s3(c3):(2);
+	CPU c1(r1):(0);
+	CPU c2(r2):(1);
+	CPU c3(r3):(2);
+	Radio r1(m):(0);
+	Radio r2(m):(1);
+	Radio r3(m):(2);
+	Master m():();
+}

@@ -1,0 +1,204 @@
+12.5594 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+12.5609 	INFO 	Loaded monitor calibration from ['2024_05_21 12:08']
+13.1294 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F9B7FDDE50>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F9B7FDDDF0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1, 1, 1]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F9B7FDDC40>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001F9B8438AC0>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+13.1297 	EXP 	window1: mouseVisible = True
+13.1297 	EXP 	window1: backgroundImage = ''
+13.1297 	EXP 	window1: backgroundFit = 'none'
+13.1301 	EXP 	window1: mouseVisible = True
+13.1306 	EXP 	window1: mouseVisible = True
+13.1363 	EXP 	window1: mouseVisible = True
+13.1379 	EXP 	window1: mouseVisible = True
+13.1576 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1591 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1606 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1623 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1639 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1650 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1665 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1680 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1689 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1698 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1712 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1726 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1738 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1752 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1765 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1779 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1792 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1803 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1813 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1831 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1844 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.1852 	DEBUG 	Uploading Texture Font fontname to graphics card
+13.2271 	DEBUG 	Upload of Texture Font fontname complete
+13.2293 	EXP 	window1: mouseVisible = True
+13.2295 	EXP 	window1: mouseVisible = True
+13.2304 	EXP 	window1: mouseVisible = True
+13.2312 	EXP 	window1: mouseVisible = True
+13.2372 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.2391 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.2408 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.2412 	DEBUG 	Uploading Texture Font fontname to graphics card
+13.2672 	DEBUG 	Upload of Texture Font fontname complete
+13.2735 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+13.2736 	EXP 	window1: recordFrameIntervals = False
+13.4871 	EXP 	window1: recordFrameIntervals = True
+13.6022 	WARNING 	t of last frame was 46.91ms (=1/21)
+13.8863 	EXP 	Screen (0) actual frame rate measured at 61.31Hz
+13.8864 	EXP 	window1: recordFrameIntervals = False
+13.8866 	EXP 	window1: mouseVisible = False
+13.8875 	EXP 	window1: mouseVisible = True
+13.8878 	EXP 	window1: mouseVisible = True
+13.8891 	EXP 	window1: mouseVisible = True
+13.8901 	EXP 	window1: mouseVisible = True
+13.8981 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9007 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9029 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9053 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9075 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9095 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9111 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9131 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9155 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9174 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9178 	DEBUG 	Uploading Texture Font fontname to graphics card
+13.9187 	DEBUG 	Upload of Texture Font fontname complete
+13.9208 	EXP 	window1: mouseVisible = True
+13.9210 	EXP 	window1: mouseVisible = True
+13.9217 	EXP 	window1: mouseVisible = True
+13.9224 	EXP 	window1: mouseVisible = True
+14.0366 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+18.3162 	INFO 	keyboard.Keyboard is using iohub backend.
+18.3163 	INFO 	keyboard.Keyboard is using iohub backend.
+18.3164 	INFO 	keyboard.Keyboard is using iohub backend.
+18.3164 	EXP 	article1: status = STARTED
+18.3169 	EXP 	window1: mouseVisible = True
+18.4681 	EXP 	Created text1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='Arabic', name='text1', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+18.4683 	EXP 	window1: mouseVisible = True
+18.4716 	EXP 	Created fixation1 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([-1, -1, -1]), fillColorSpace='rgb', fillRGB=array([-1, -1, -1]), interpolate=True, lineColor=array([-1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([-1., -1., -1.]), lineWidth=0.08, name='fixation1', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.03, 0.06]), units='norm', vertices=ndarray(...), win=Window(...), windingRule=None)
+18.4720 	EXP 	window1: mouseVisible = True
+18.4842 	EXP 	Created left_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='left_image', opacity=1.0, ori=0.0, pos=array([-0.5,  0. ]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+18.4843 	EXP 	window1: mouseVisible = True
+18.4892 	EXP 	Created right_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='right_image', opacity=1.0, ori=0.0, pos=array([0.5, 0. ]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+18.4894 	EXP 	window1: mouseVisible = True
+18.4912 	EXP 	Created polygon = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-5.0, draggable=False, fillColor=array([0., 0., 0.]), fillColorSpace='rgb', fillRGB=array([0., 0., 0.]), interpolate=True, lineColor=array([-0.5765,  0.0039,  1.    ]), lineColorSpace='rgb', lineRGB=array([-0.5765,  0.0039,  1.    ]), lineWidth=20.0, name='polygon', opacity=0.3, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), units='height', vertices=ndarray(...), win=Window(...))
+18.4914 	EXP 	window1: mouseVisible = True
+18.4916 	EXP 	window1: mouseVisible = True
+18.4925 	EXP 	window1: mouseVisible = True
+18.4934 	EXP 	window1: mouseVisible = True
+18.5004 	EXP 	window1: mouseVisible = True
+18.5006 	EXP 	window1: mouseVisible = True
+18.5013 	EXP 	window1: mouseVisible = True
+18.5019 	EXP 	window1: mouseVisible = True
+18.5088 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5108 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5124 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5139 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5152 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5166 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5183 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5197 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5210 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5214 	DEBUG 	Uploading Texture Font fontname to graphics card
+18.5235 	DEBUG 	Upload of Texture Font fontname complete
+18.5251 	EXP 	window1: mouseVisible = True
+18.5253 	EXP 	window1: mouseVisible = True
+18.5260 	EXP 	window1: mouseVisible = True
+18.5269 	EXP 	window1: mouseVisible = True
+18.5324 	EXP 	window1: mouseVisible = True
+18.5326 	EXP 	window1: mouseVisible = True
+18.5334 	EXP 	window1: mouseVisible = True
+18.5341 	EXP 	window1: mouseVisible = True
+18.5393 	EXP 	window1: mouseVisible = True
+18.5411 	EXP 	Created text_no_resp = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-8.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='Arabic', name='text_no_resp', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0370 	EXP 	left_learning_reward: autoLog = True
+0.0370 	EXP 	right_learning_reward: autoLog = True
+0.0881 	INFO 	Keyboard events cleared
+0.0866 	EXP 	text1: autoDraw = True
+3.1378 	EXP 	Created sequence: random, trialTypes=1, nReps=20, seed=None
+3.1382 	EXP 	New trial (rep=0, index=0): None
+3.1417 	DATA 	Keypress: space
+3.1597 	EXP 	text1: autoDraw = False
+3.1597 	EXP 	fixation1: autoDraw = True
+4.1483 	EXP 	window1: backgroundImage = ''
+4.1483 	EXP 	window1: backgroundFit = 'none'
+4.2995 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.3034 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.3067 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.3101 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.3123 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.3150 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.3171 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.3175 	DEBUG 	Uploading Texture Font fontname to graphics card
+4.3245 	DEBUG 	Upload of Texture Font fontname complete
+4.3283 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.3315 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.3319 	DEBUG 	Uploading Texture Font fontname to graphics card
+4.3384 	DEBUG 	Upload of Texture Font fontname complete
+4.4273 	INFO 	Keyboard events cleared
+4.4264 	EXP 	fixation1: autoDraw = False
+4.4264 	EXP 	left_image: image = '2.jpg'
+4.4264 	EXP 	right_image: image = '1.jpg'
+4.4264 	EXP 	left_image: autoDraw = True
+4.4264 	EXP 	right_image: autoDraw = True
+8.1596 	EXP 	polygon: autoDraw = True
+8.1596 	EXP 	left_learning_reward: autoDraw = True
+8.1596 	EXP 	right_learning_reward: autoDraw = True
+9.1611 	EXP 	polygon: autoDraw = False
+9.1611 	EXP 	left_learning_reward: autoDraw = False
+9.1611 	EXP 	right_learning_reward: autoDraw = False
+9.4271 	EXP 	left_image: autoDraw = False
+9.4271 	EXP 	right_image: autoDraw = False
+10.1759 	EXP 	text_no_resp: autoDraw = True
+11.1879 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+11.1885 	EXP 	window1: backgroundImage = ''
+11.1885 	EXP 	window1: backgroundFit = 'none'
+11.1885 	EXP 	window1: units = 'height'
+11.1911 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+11.1912 	EXP 	window1: recordFrameIntervals = False
+11.2092 	EXP 	text_no_resp: autoDraw = False
+11.2092 	EXP 	left_image: autoDraw = False
+11.2092 	EXP 	right_image: autoDraw = False
+11.2092 	EXP 	polygon: autoDraw = False
+11.2092 	EXP 	left_learning_reward: autoDraw = False
+11.2092 	EXP 	right_learning_reward: autoDraw = False
+11.2092 	EXP 	text_no_resp: autoDraw = False
+11.3652 	EXP 	window1: recordFrameIntervals = True
+11.5495 	EXP 	Screen (0) actual frame rate measured at 59.86Hz
+11.5496 	EXP 	window1: recordFrameIntervals = False
+11.5498 	EXP 	window1: mouseVisible = False
+11.5518 	EXP 	New trial (rep=1, index=0): None
+11.5606 	EXP 	fixation1: autoDraw = True
+12.5483 	EXP 	window1: backgroundImage = ''
+12.5484 	EXP 	window1: backgroundFit = 'none'
+12.6488 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.6505 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.6508 	DEBUG 	Uploading Texture Font fontname to graphics card
+12.6519 	DEBUG 	Upload of Texture Font fontname complete
+12.6540 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.6556 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.6560 	DEBUG 	Uploading Texture Font fontname to graphics card
+12.6574 	DEBUG 	Upload of Texture Font fontname complete
+12.6809 	INFO 	Keyboard events cleared
+12.6801 	EXP 	fixation1: autoDraw = False
+12.6801 	EXP 	fixation1: autoDraw = False
+12.6801 	EXP 	left_image: image = '3.jpg'
+12.6801 	EXP 	right_image: image = '4.jpg'
+12.6801 	EXP 	left_image: autoDraw = True
+12.6801 	EXP 	right_image: autoDraw = True
+14.3696 	DATA 	Keypress: right
+16.5763 	EXP 	polygon: autoDraw = True
+16.5763 	EXP 	left_learning_reward: autoDraw = True
+16.5763 	EXP 	right_learning_reward: autoDraw = True
+17.5768 	EXP 	polygon: autoDraw = False
+17.5768 	EXP 	left_learning_reward: autoDraw = False
+17.5768 	EXP 	right_learning_reward: autoDraw = False
+17.6934 	EXP 	left_image: autoDraw = False
+17.6934 	EXP 	right_image: autoDraw = False
+45.2340 	DATA 	Keypress: escape
+45.3334 	EXP 	article1: status = STOPPED
+45.3481 	EXP 	article1: status = STOPPED
+45.3822 	INFO 	saved data to 'D:\\UT\\semester 4 - courses\\Cognitive science\\HWs\\HW1\\answer\\article1\\data/393708_article1_2024-05-27_20h39.24.611.csv'
+45.3832 	INFO 	saved data to D:\UT\semester 4 - courses\Cognitive science\HWs\HW1\answer\article1\data/393708_article1_2024-05-27_20h39.24.611.psydat
+45.4892 	EXP 	window1: mouseVisible = True
+45.9812 	DEBUG 	Saving data for article1 ExperimentHandler

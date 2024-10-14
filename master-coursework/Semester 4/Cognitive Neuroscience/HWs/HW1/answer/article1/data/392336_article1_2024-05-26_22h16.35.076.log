@@ -1,0 +1,6 @@
+9.7549 	WARNING 	User requested fullscreen with size [1280  720], but screen is actually [1920, 1080]. Using actual size
+10.7663 	WARNING 	t of last frame was 21.71ms (=1/46)
+10.8802 	WARNING 	t of last frame was 113.95ms (=1/8)
+10.9565 	WARNING 	t of last frame was 76.24ms (=1/13)
+10.9786 	WARNING 	t of last frame was 22.14ms (=1/45)
+11.0024 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
